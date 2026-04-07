@@ -1,0 +1,14 @@
+# 임시 폴더 제외
+tmp/
+
+# 클로드 시스템 파일 제외
+.claude/
+
+# (추가 권장) OS 설정 및 IDE 관련 파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
