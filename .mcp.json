@@ -5,7 +5,8 @@
       "args": [
         "/c", "npx", "-y",
         "@modelcontextprotocol/server-filesystem",
-        "C:\\Users\\Administrator\\Downloads"
+        "C:\\Users\\Administrator\\Downloads",
+        "C:\\Users\\Administrator\\Documents\\회의녹음"
       ]
     },
     "google-drive": {
