@@ -6,7 +6,7 @@
         "/c", "npx", "-y",
         "@modelcontextprotocol/server-filesystem",
         "C:\\Users\\Administrator\\Downloads",
-        "C:\\Users\\Administrator\\Documents\\회의녹음"
+        "C:\\Users\\Administrator\\Documents"
       ]
     },
     "google-drive": {
@@ -22,6 +22,16 @@
         "/c", "npx", "-y",
         "@gongrzhe/server-gmail-autoauth-mcp"
       ]
+    },
+    "brave-search": {
+      "command": "cmd",
+      "args": [
+        "/c", "npx", "-y",
+        "@modelcontextprotocol/server-brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": "BSA2EK-PUfHyBDNmcrITcJqKaHCfbl7"
+      }
     }
   }
 }

@@ -1,5 +1,10 @@
 # 임시 폴더 제외
 tmp/
+unpacked_report/
+skills/pptx/scripts/
+skills/pptx/scripts/office/
+skills/pptx/scripts/office/validators/__pycache__/
+skills/pptx/scripts/office/helpers/__pycache__/
 
 # 클로드 시스템 파일 제외
 .claude/
