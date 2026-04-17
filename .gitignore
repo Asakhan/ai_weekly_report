@@ -8,6 +8,7 @@ skills/pptx/scripts/office/helpers/__pycache__/
 
 # 클로드 시스템 파일 제외
 .claude/
+.mcp.json
 
 # (추가 권장) OS 설정 및 IDE 관련 파일
 .DS_Store
